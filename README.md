@@ -3,7 +3,11 @@
 > Projet académique réalisé dans le cadre de la **SAÉ 4.IOM.01 – Implémenter les réseaux et protocoles sans fil dédiés à l’IoT**  
 > BUT Réseaux & Télécommunications – Parcours IoM
 
-<img width="260" height="190" alt="image" src="https://github.com/user-attachments/assets/d80c007e-c1eb-489d-b091-7e03c7b19559" />
+<img width="1045" height="541" alt="image" src="https://github.com/user-attachments/assets/533dae82-7108-4d4b-af01-36234b7482ef" />
+
+<img width="948" height="567" alt="image" src="https://github.com/user-attachments/assets/8875a941-c90c-41ff-8239-16f79b5de3ce" />
+
+
 
 ---
 
